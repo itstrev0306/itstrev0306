@@ -15,7 +15,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <hr/>
 
 ## 🤳 Connect With Me
-
 [linkedin]: https://linkedin.com/in/trevor-fredrick-61161b343
 
 <!--
